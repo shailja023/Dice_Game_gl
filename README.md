@@ -1,1 +1,1 @@
-# dice_game_gl
+Run Application.java in order to play the Dice game.
