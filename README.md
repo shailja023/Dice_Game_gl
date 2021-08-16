@@ -1,1 +1,1 @@
-# Dice_Game_gl
+# dice_game_gl
